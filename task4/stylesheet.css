@@ -1,0 +1,47 @@
+.containers{
+  background-color: #6961E4;
+  position: relative;
+  height:800px;
+  width:100%;
+
+}
+.container1{
+  position: absolute;
+  top:100px;
+  left:200px;
+  width:490px;
+  height:560px;
+background-color: white;
+border-radius: 15px;
+
+}
+.container2{
+  position: absolute;
+  top:100px;
+  right:200px;
+  width:490px;
+  height:560px;
+  background-color: white;
+  border-radius: 15px;
+}
+.box1,.signup{
+  width:305px;
+  height: 35px;
+  border-radius: 5px;
+  border-style:solid;
+  border-color: light-grey;
+}
+.f1{
+  margin: 85px 165px;
+  margin-left: 100px;
+}
+.signup{
+  background-color: #ff3385;
+  border: none;
+  box-shadow: 5px 5px  5px grey;
+}
+.forgot{
+  text-decoration:none;
+  color:black;
+
+}
